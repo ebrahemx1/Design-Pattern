@@ -12,3 +12,4 @@ j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\refint\Design.dll
 j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.pdb
 j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.genruntimeconfig.cache
 j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\ref\Design.dll
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.sourcelink.json
