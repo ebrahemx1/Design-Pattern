@@ -1,0 +1,14 @@
+j:\HarshaCourse\DesignPattern\Design\bin\Debug\net8.0\Design.exe
+j:\HarshaCourse\DesignPattern\Design\bin\Debug\net8.0\Design.deps.json
+j:\HarshaCourse\DesignPattern\Design\bin\Debug\net8.0\Design.runtimeconfig.json
+j:\HarshaCourse\DesignPattern\Design\bin\Debug\net8.0\Design.dll
+j:\HarshaCourse\DesignPattern\Design\bin\Debug\net8.0\Design.pdb
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.GeneratedMSBuildEditorConfig.editorconfig
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.AssemblyInfoInputs.cache
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.AssemblyInfo.cs
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.csproj.CoreCompileInputs.cache
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.dll
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\refint\Design.dll
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.pdb
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\Design.genruntimeconfig.cache
+j:\HarshaCourse\DesignPattern\Design\obj\Debug\net8.0\ref\Design.dll
